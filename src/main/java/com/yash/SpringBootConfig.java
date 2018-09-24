@@ -13,7 +13,8 @@ public class SpringBootConfig extends SpringBootServletInitializer {
         return application.sources(SpringBootConfig.class);
     }
     public static void main(String[] args) throws Exception {
-        SpringApplication.run(SpringBootConfig.class, args);            // it will start application
+        SpringApplication.run(SpringBootConfig.class, args);
+        // it will start application
         
     }
 }
