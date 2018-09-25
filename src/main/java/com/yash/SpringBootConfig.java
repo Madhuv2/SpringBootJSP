@@ -16,5 +16,6 @@ public class SpringBootConfig extends SpringBootServletInitializer {
         SpringApplication.run(SpringBootConfig.class, args);
         // it will start application
         
+        
     }
 }
