@@ -15,7 +15,6 @@ public class SpringBootConfig extends SpringBootServletInitializer {
     public static void main(String[] args) throws Exception {
         SpringApplication.run(SpringBootConfig.class, args);
         // it will start application
-
         
         
     }
